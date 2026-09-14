@@ -3,11 +3,12 @@ import network
 import urequests
 import time
 import urequests
+import Secrets
  
 #setting up SSID and password 
- 
-SSID = "tufts_eecs" #use tufts_eecs
-PASSWORD = "foundedin1883" #foundedin1883
+#Why isn't it working?
+SSID = Secrets.SSID
+PASSWORD = Secrets.PASSWORD
 
 
 #function definition 
