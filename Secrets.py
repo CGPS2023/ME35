@@ -1,2 +1,6 @@
-SSID = "tufts_eecs" #use tufts_eecs
-PASSWORD = "foundedin1883" #foundedin1883
+#SSID="tufts_eecs"
+SSID="Verizon_Y7CHH9"
+PWD="bonus4soda7reel"
+#PWD="foundedin1883"
+#at_api_token ="patcxZbmZNg1bN4Vs.a778f0145d065ec3a566618df815be86798471426e21d75f06d67e247f84cf58"
+at_api_token ="BpbRivoYfDl3JSfKDDnhvgpe2ouPHAaUJnfFMla9"
